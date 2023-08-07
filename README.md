@@ -1,4 +1,4 @@
-Repositório de Xadrez em Java 🎲♟️
+MyChess 🎲♟️
 
 Seja bem-vindo ao repositório de Xadrez em Java! Aqui você encontrará um projeto completo de Xadrez implementado utilizando conceitos avançados de orientação a objetos, proporcionando uma experiência imersiva e interativa para os amantes do jogo de tabuleiro mais popular do mundo.
 
